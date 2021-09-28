@@ -1,4 +1,4 @@
-# House_price_predictions
+# House_Price_Predictions
 # Intro
 Creating a Machine Learning model to predict the house prices in Boston.
 
